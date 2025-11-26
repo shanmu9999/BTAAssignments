@@ -79,7 +79,7 @@ public class Assingment1_Datatypes {
 		String time = "2:30 PM";
 		System.out.println("16. Time of the event:"+time);
 		
-		String state = "United State";
+		String state = "United States";
 		System.out.println("17. Name of the Country:"+state);
 		
 		String eye = "Brown";
