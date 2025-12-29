@@ -47,12 +47,8 @@ public class Assinment4_Collections {
         movie.add("KGF");
         movie.add("KGF2");
         movie.add("Sampoo");
-        System.out.println("print out the third movie on the list"+ movie.get(3));
-        
-
+        System.out.println("print out the third movie on the list: "+ movie.get(2));
 		
 	}
-	
-
 	
 }
